@@ -6,7 +6,7 @@ on:
             - edited
             - synchronize
 
-name: CI
+name: Pull Request CI
 
 jobs:
     build_and_test:
